@@ -19,5 +19,5 @@
 
 ## 느낀점
 - **김다인** : Pororo Library가 굉장히 잘 만들어져있음을 느낄 수 있는 대회였다. 시간이 된다면 내부 깃헙 코드를 하나씩 들여다보며 내부 모델들의 구조를 통해 공부하고 싶다.
-- **박성호** :
+- **박성호** : 여러 Generation model을 summarizatino에 활용한 것은 처음이었다. Decoder만을 활용한 Transformer들로도 Summarization을 잘 해보고 싶었는데 아쉬웠다.
 - **박재형** : Generation model을 이용해서 좋은 점수를 얻고 싶었지만 실패해서 많이 아쉬웠다. 뽀로로 extractive가 정말 좋다는 것을 알게 되었다. 좀 더 공부해서 Generation model로 더 좋은 성적을 내보고 싶다.  
