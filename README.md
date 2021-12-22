@@ -10,8 +10,8 @@
 ## Solution
 - KoBART : 33.26  
 - KoGPT2(SKT-AI), KoGPT(Kakao brain) : 요약결과가 좋지 않아서 제출X  
-- Brainbert-base(Pororo) : 46.56 ~ 48.35  
-- Brainbert-base(Pororo) + 전처리(유니코드 제거 + 따옴표 제거) : Best Score : 48.79
+- Brainbert-base(Pororo-Extractive) : 46.56 ~ 48.35  
+- Brainbert-base(Pororo-Extractive) + 전처리(유니코드 제거 + 따옴표 제거) : Best Score : 48.79
 
 ## 최종 순위
 - **2위**  
