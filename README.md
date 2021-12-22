@@ -6,7 +6,7 @@
 | <a href="https://github.com/danny980521" height="5" width="10" target="_blank"><img src="https://avatars.githubusercontent.com/u/77524474?v=4" width="50%" height="50%"> | <a href="https://github.com/naem1023" height="5" width="10" target="_blank"><img src="https://avatars.githubusercontent.com/u/11407756?v=4" width="50%" height="50%">| <a href="https://github.com/Jay-Ppark" height="5" width="10" target="_blank"><img src="https://avatars.githubusercontent.com/u/29303223?v=4" width="50%" height="50%">|
 
 ## 주제
-- 텍스트 기반의 문서를 요약하는 알고리즘을 개발하고 요약텍스트 데이터를 활용해 도출한 결과물을 통해 데이터의 범용성 확대  
+- 텍스트 기반의 문서를 요약하는 알고리즘을 개발  
 ## Solution
 - KoBART : 33.26  
 - KoGPT2(SKT-AI), KoGPT(Kakao brain) : 요약결과가 좋지 않아서 제출X  
