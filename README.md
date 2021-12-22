@@ -14,7 +14,7 @@
 - Brainbert-base(Pororo) + 전처리(유니코드 제거 + 따옴표 제거) : Best Score : 48.79
 
 ## 최종 순위
-- 2등  
+- 2위  
 ![image](./images/2021-12-22-15-01-56.png)
 
 ## 느낀점
